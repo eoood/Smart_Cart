@@ -5,7 +5,8 @@
 
 ## [팀 프로젝트] 스마트카트
 
-[ 시연영상 ]
+## 시연영상
+ https://youtu.be/zhnOepKix6I
 
 
 
