@@ -18,7 +18,7 @@
 
 ## 사용 기술
 + Java
-+ SQLite
+
 
 ## 개발 환경
 Window OS
